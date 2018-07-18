@@ -1,7 +1,7 @@
 ---
 layout: post
-title: rabbitmq in openstack
-description: To learn and make clear how rabbitmq works in openstack
+title: python unittest with mock
+description: To use mock in python unittest and examples
 category: blog
 ---
 
@@ -33,5 +33,13 @@ class TestFuncWithMoc(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 ~                      
+Note:
+unittest部分
+
+https://imsardine.wordpress.com/tech/unit-testing-in-python/
+
+mock部分
+
+https://evangui.com/2016/02/29/%E7%94%A8-mock-%E4%BE%86%E4%BD%9C-python-unit-test/
 
 [Shannonh]:    https://github.com/xhan-shannon "xhan-shannon"
