@@ -1,6 +1,6 @@
 ---
 layout: post
-title: multiple terminal manager: tmux/screen/byobu
+title: multiple terminal manager tmux/screen/byobu
 description: multi-window manager in Linux
 category: blog
 ---

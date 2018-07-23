@@ -10,6 +10,12 @@ category: blog
 ## check connection using Linux command 
 
 ## check connection using rabbitmqctl
+1. 
+$ sudo rabbitmqctl list_queues -p cqa_engine
+Listing queues
+amq.gen-bYWhQygXNWm6wXxXZyo7kg	0
+rpc_queue	0
+
 
 
 [Shannonh]:    https://github.com/xhan-shannon "xhan-shannon"
