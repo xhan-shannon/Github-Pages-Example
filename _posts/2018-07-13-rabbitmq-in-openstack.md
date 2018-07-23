@@ -7,4 +7,9 @@ category: blog
 
 ## rabbitmq in openstack
 
+## check connection using Linux command 
+
+## check connection using rabbitmqctl
+
+
 [Shannonh]:    https://github.com/xhan-shannon "xhan-shannon"

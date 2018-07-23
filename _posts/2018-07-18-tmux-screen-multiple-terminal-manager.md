@@ -46,6 +46,17 @@ EDIT, basic screen usage:
     Switch between terminals using list: ctrla then " (useful when more than 10 terminals)
     Send ctrla to the underlying terminal ctrla then a.
 
+Share terminal:
+Basic sharing with tmux
+
+Again, there are only two steps. In the first terminal, start tmux where shared is the session name:
+
+tmux new-session -s shared
+
+Then in the second terminal attach to the shared session.
+
+tmux attach-session -t shared 
+
 Note:
 https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/
 
