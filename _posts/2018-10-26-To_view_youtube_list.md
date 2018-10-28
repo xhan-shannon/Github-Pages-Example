@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GPU CUDA learning notes
-description: GPU and CUDA basic knowledge
+title: To view youtube video list
+description: The video list for future view
 category: blog
 ---
 
